@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<h1>Java Full Stack</h1>
+<h1>Java Full Stack Development & Devops</h1>
