@@ -36,3 +36,19 @@ Passionate about learning new technologies and solving challenging problems thro
 ## 📊 Skills Progress
 
 **Java**  
+
+---
+
+## 📈 GitHub Stats
+![Nagamani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagamaniikarnik&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagamaniikarnik&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+- 📧 Email: nagamanikarnik@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/nagamani-karnik](https://www.linkedin.com/in/nagamani-karnik/)  
+- 🐙 GitHub: [github.com/Nagamaniikarnik](https://github.com/Nagamaniikarnik)
+
+---
+
