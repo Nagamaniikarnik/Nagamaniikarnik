@@ -1,13 +1,16 @@
-# Hi there 👋
+# 👋 Hi there, I’m Nagamani!
 
-<h1 align="center">🚀 Java Full Stack Developer & DevOps Enthusiast</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> 
+  Java Full Stack Developer & DevOps Enthusiast
+</h1>
 
 ---
 
 ## 👨‍💻 About Me
 I am a Computer Science Engineering graduate passionate about **Full Stack Development** and **DevOps**.  
 I specialize in **Java, Spring Boot, React**, and cloud technologies, building **clean, scalable, and maintainable applications**.  
-I continuously learn new technologies and love solving complex problems with code.
+I love learning new technologies, exploring automation, and solving challenging problems through code.
 
 ---
 
@@ -51,7 +54,8 @@ I continuously learn new technologies and love solving complex problems with cod
 ## ✨ Fun & Animated Badges
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Nagamaniikarnik)
 ![Profile Views](https://komarev.com/ghpvc/?username=Nagamaniikarnik&color=blue)
-![Dynamic](https://img.shields.io/badge/Level-Up-1?style=for-the-badge&logo=github&logoColor=white)
+![Level-Up](https://img.shields.io/badge/Level-Up-1?style=for-the-badge&logo=github&logoColor=white)
+![Coding GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
