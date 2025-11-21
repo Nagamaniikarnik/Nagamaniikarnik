@@ -5,15 +5,15 @@
 ---
 
 ## 👨‍💻 About Me
-I am a Computer Science Engineering graduate with expertise in **Full Stack Development** and **DevOps**.  
+I am a Computer Science Engineering graduate passionate about **Full Stack Development** and **DevOps**.  
 I specialize in **Java, Spring Boot, React**, and cloud technologies, building **clean, scalable, and maintainable applications**.  
-Passionate about learning new technologies and solving challenging problems through code.
+I continuously learn new technologies and love solving complex problems with code.
 
 ---
 
 ## 🛠 Skills & Technologies
 
-### 💻 Programming Languages
+### 💻 Programming & Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,15 +33,25 @@ Passionate about learning new technologies and solving challenging problems thro
 
 ---
 
-## 📊 Skills Progress
-
-**Java**  
+## 📊 Skills Progress (Animated)
+![Java](https://progress-bar.dev/90/?title=Java)
+![Spring Boot](https://progress-bar.dev/85/?title=SpringBoot)
+![React](https://progress-bar.dev/80/?title=React)
+![DevOps & Cloud](https://progress-bar.dev/70/?title=DevOps)
+![SQL & Databases](https://progress-bar.dev/80/?title=SQL)
 
 ---
 
-## 📈 GitHub Stats
+## ⚡ GitHub Stats (Dynamic)
 ![Nagamani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagamaniikarnik&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagamaniikarnik&layout=compact&theme=radical)
+
+---
+
+## ✨ Fun & Animated Badges
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Nagamaniikarnik)
+![Profile Views](https://komarev.com/ghpvc/?username=Nagamaniikarnik&color=blue)
+![Dynamic](https://img.shields.io/badge/Level-Up-1?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
