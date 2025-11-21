@@ -6,14 +6,14 @@
 
 ## 👨‍💻 About Me
 I am a Computer Science Engineering graduate with expertise in **Full Stack Development** and **DevOps**.  
-I work with **Java, Spring Boot, React**, and cloud technologies, focusing on building clean, scalable, and maintainable applications.  
-I am passionate about learning new technologies and solving challenging problems through code.
+I specialize in **Java, Spring Boot, React**, and cloud technologies, building **clean, scalable, and maintainable applications**.  
+Passionate about learning new technologies and solving challenging problems through code.
 
 ---
 
 ## 🛠 Skills & Technologies
 
-### 💻 Programming & Development
+### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,12 +33,6 @@ I am passionate about learning new technologies and solving challenging problems
 
 ---
 
-## 📈 GitHub Stats
-![Nagamani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagamaniikarnik&show_icons=true&theme=radical)
+## 📊 Skills Progress
 
----
-
-## 📫 Contact Me
-- 📧 Email: nagamanikarnik@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/nagamani-karnik](https://www.linkedin.com/in/nagamani-karnik/)  
-- 🐙 GitHub: [github.com/Nagamaniikarnik](https://github.com/Nagamaniikarnik)
+**Java**  
